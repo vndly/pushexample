@@ -1,2 +1,3 @@
-# pushexample
-An Android push notification example using Firebase
+# Push Example
+
+An Android push notification example using Firebase.
